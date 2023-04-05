@@ -4,6 +4,5 @@
 
 azure-functions
 pandas
-ftplib
 urllib3
 SQLAlchemy
