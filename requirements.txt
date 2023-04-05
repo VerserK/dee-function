@@ -7,3 +7,4 @@ pandas
 urllib3
 SQLAlchemy
 requests
+pyodbc
